@@ -1,1 +1,6 @@
-istio-1.24.2/
+istio-1.24.2/bin/
+istio-1.24.2/tools
+istio-1.24.2/LICENSE
+istio-1.24.2/manifest.yaml
+istio-1.24.2/README.md
+istio-1.24.2/manifests/
